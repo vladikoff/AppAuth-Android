@@ -1,11 +1,8 @@
 {
-  "client_id": "",
-  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
+  "client_id": "635748292476-bvqbhssrf1h4ile9m875o2dm2j2rdgog.apps.googleusercontent.com",
+  "redirect_uri": "com.googleusercontent.apps.635748292476-bvqbhssrf1h4ile9m875o2dm2j2rdgog:/oauth2redirect",
   "authorization_scope": "openid email profile",
-  "discovery_uri": "",
-  "authorization_endpoint_uri": "",
-  "token_endpoint_uri": "",
-  "registration_endpoint_uri": "",
-  "user_info_endpoint_uri": "",
-  "https_required": true
+  "discovery_uri": "https://accounts.google.com/.well-known/openid-configuration"
 }
+
+
