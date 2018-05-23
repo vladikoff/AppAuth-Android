@@ -1,8 +1,8 @@
 {
-  "client_id": "635748292476-bvqbhssrf1h4ile9m875o2dm2j2rdgog.apps.googleusercontent.com",
-  "redirect_uri": "com.googleusercontent.apps.635748292476-bvqbhssrf1h4ile9m875o2dm2j2rdgog:/oauth2redirect",
+  "client_id": "7f368c6886429f19",
+  "redirect_uri": "https://mozilla.github.io/notes/fxa/android-redirect.html",
   "authorization_scope": "openid email profile",
-  "discovery_uri": "https://accounts.google.com/.well-known/openid-configuration"
+  "discovery_uri": "https://accounts.firefox.com/.well-known/openid-configuration"
 }
 
 

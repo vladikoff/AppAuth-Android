@@ -12,7 +12,7 @@ android {
         // Make sure this is consistent with the redirect URI used in res/raw/auth_config.json,
         // or specify additional redirect URIs in AndroidManifest.xml
         manifestPlaceholders = [
-                'appAuthRedirectScheme': 'com.googleusercontent.apps.635748292476-bvqbhssrf1h4ile9m875o2dm2j2rdgog'
+                'appAuthRedirectScheme': '7f368c6886429f19'
         ]
     }
 

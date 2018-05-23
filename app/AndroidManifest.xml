@@ -70,7 +70,9 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="com.googleusercontent.apps.635748292476-bvqbhssrf1h4ile9m875o2dm2j2rdgog"/>
+                <data android:scheme="https"
+                    android:host="mozilla.github.io"
+                    android:path="/notes/fxa/android-redirect.html"/>
             </intent-filter>
         </activity>
     </application>
